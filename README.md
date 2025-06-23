@@ -1,2 +1,3 @@
-# MEDGRAM
-Secured 3rd    -Place in Healthcare Management System  at FLUXUS 25 by IIT-Indore .
+# medgram
+IIT Indore Hackathon - Healthcare Management system for Students
+Won 3rd prize among 600+ participants
